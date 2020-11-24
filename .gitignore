@@ -1,9 +1,7 @@
 # Ignore paths that contain user-generated content.
 data-db-14/
-data-db-14/*
 data-log-14/
 data-odoo-14/
-data-odoo-14/*
 
 # Packages #
 ############
